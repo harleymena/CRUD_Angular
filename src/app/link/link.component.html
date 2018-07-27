@@ -1,0 +1,14 @@
+<div class="card mt-1">
+    <div class="card-header">
+        <div class="row justify-content-center">
+            <a class="display-4" href="{{link.link}}" target="_blanck">{{link.titulo}}</a>
+        </div>
+    </div>
+    <div class="card-body">
+        <div class="row justify-content-around">
+            <button class="btn btn-success" (click)="link.incrementar()">+</button>
+            <h3>{{link.votos}}</h3>
+            <button class="btn btn-danger" (click)="link.decrementar()">-</button>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,23 @@
+commit e01b430243862b56debde8aba17898d8ce0716ab
+Author: Harley <hgmena@indra.es>
+Date:   Thu Jul 26 12:52:42 2018 +0200
+
+    Proyecto de la rama master con las variables cmabiadas de nombre
+
+commit cf3ed73d37e5c398dbf966b6c6746dbe6cac0cd1
+Author: Harley <hgmena@indra.es>
+Date:   Thu Jul 26 12:38:17 2018 +0200
+
+    Proyecto-Crud terminado
+
+commit c3439123e33850b1d11b3f1c36771ce94a266809
+Author: Harley <hgmena@indra.es>
+Date:   Thu Jul 26 10:04:35 2018 +0200
+
+    Inicio del Proyecto con bootstarp instalado
+
+commit 23aadf8dfae4df32975cfbe9946af756a146f70e
+Author: Harley <hgmena@indra.es>
+Date:   Thu Jul 26 09:10:48 2018 +0200
+
+    initial commit
